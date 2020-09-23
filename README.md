@@ -1,6 +1,6 @@
 ### Welcome to My GitHub! I'm Asia,
 
-![laptop table](file:///C:/Users/asiah/OneDrive/Pictures/Saved%20Pictures/HTML%20CSS/laptop%20table.jpg)
+![laptop table](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workspace-with-brick-wall-in-office-royalty-free-image-909223304-1566845696.jpg?crop=0.668xw:0.998xh;0.120xw,0.00244xh&resize=640:*)
 
 I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. 
 <br>
@@ -28,5 +28,5 @@ If my projects and profile interest you or compell you to provide constructive f
 
 * Linked In: https://www.linkedin.com/in/asia-hewett
 * Stack Overflow: https://stackexchange.com/users/18854155/asia-hewett
-* GitHub: Send me an email! 
+* GitHub Site: https://asia-hewett.github.io/
 
