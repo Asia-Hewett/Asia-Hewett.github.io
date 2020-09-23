@@ -1,8 +1,12 @@
 ### Welcome to My GitHub! I'm Asia,
 
+![laptop table](file:///C:/Users/asiah/OneDrive/Pictures/Saved%20Pictures/HTML%20CSS/laptop%20table.jpg)
+
 I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. 
 <br>
+<br>
 AND. I. DID. 
+<br>
 <br>
 Web development quickly turned into a creative outlet, and Data Analysis empowered my curiosities when conducting research. I now know that the fundamentals I've absorbed from my classes and lessons will lay the foundation for the incredible business image I hope to create in the future. 
 
@@ -26,4 +30,3 @@ If my projects and profile interest you or compell you to provide constructive f
 * Stack Overflow: https://stackexchange.com/users/18854155/asia-hewett
 * GitHub: Send me an email! 
 
-# Thanks for visiting my page :smile:
