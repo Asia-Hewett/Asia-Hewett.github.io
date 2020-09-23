@@ -1,13 +1,17 @@
 ### Welcome to My GitHub! I'm Asia,
 
-I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. AND. I. DID. 
+I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. 
 <br>
-Web development quickly turned into a creative outlet, and Data Analysis fed my love for conducting research. I now know that the fundamentals I've absorbed from my classes and lessons will lay the foundation for the incredible business image I hope to create in the future. 
+AND. I. DID. 
+<br>
+Web development quickly turned into a creative outlet, and Data Analysis empowered my curiosities when conducting research. I now know that the fundamentals I've absorbed from my classes and lessons will lay the foundation for the incredible business image I hope to create in the future. 
 
 ## Motivation: What Keeps Me Going?
 
 :seedling: Constantly aiming to improve myself
+<br>
 :earth_asia: Learning new things and meeting new people
+<br>
 :green_heart: I want to improve my community for my family, friends, and neighbors 
 
 ## Work Ethic, Work Life, Work Balance
@@ -20,4 +24,6 @@ If my projects and profile interest you or compell you to provide constructive f
 
 * Linked In: https://www.linkedin.com/in/asia-hewett
 * Stack Overflow: https://stackexchange.com/users/18854155/asia-hewett
-* GitHub: Send me an emails
+* GitHub: Send me an email! 
+
+# Thanks for visiting my page :smile:
