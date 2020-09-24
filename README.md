@@ -1,6 +1,9 @@
 ### Welcome to My GitHub! I'm Asia,
 
-![keyboard](./images/keyboard.jpg)
+
+<p align="center">
+  <img width="600" height="200" src="./images/keyboard.jpg">
+</p>
 
 I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. 
 <br>
