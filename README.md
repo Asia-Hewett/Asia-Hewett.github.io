@@ -18,13 +18,13 @@ Web development quickly turned into a creative outlet, and Data Analysis empower
 
 ## Work Ethic, Work Life, Work Balance
 
-When I set my mind to something I get it done no matter how daunting the task may be. I have experience working as an independent contractor, which makes me effective when completing tasks solo, but I never hesitate to ask for help when my lone-soldier methods need reinforcemnts. I see my work as a reflection of myself, so I always add a touch of personality to the material given while maintaining my professional composure, but I think the world could use a little more humor and compassion, especially in the work place.
+When I set my mind to something I get it done no matter how daunting the task may be. I have experience working as an independent contractor, which makes me effective when completing tasks solo, but I never hesitate to ask for help when my lone-soldier methods need reinforcements. I see my work as a reflection of myself, so I always add a touch of personality to the material given while maintaining my professional composure, but I think the world could use a little more humor and compassion, especially in the work place.
 
 ## Get In Touch!
 
 If my projects and profile interest you or compell you to provide constructive feedback, please reach out to me via:
 
-* Linked In: https://www.linkedin.com/in/asia-hewett
+* Linked In: https://www.linkedin.com/in/asia-hewett-77b94b117/
 * Stack Overflow: https://stackexchange.com/users/18854155/asia-hewett
 * GitHub Site: https://asia-hewett.github.io/
 
